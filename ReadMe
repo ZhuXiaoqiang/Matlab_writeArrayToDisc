@@ -1,0 +1,7 @@
+function writeArrayToDisc( Array, name,numberStyle)
+%WRITETODISC Summary of this function goes here
+%   Detailed explanation goes here
+   
+%   numberStyle=1 : int
+%   numberStyle=2 : double
+%   numberStyle=3 : char
